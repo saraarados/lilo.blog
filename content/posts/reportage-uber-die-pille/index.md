@@ -1,0 +1,59 @@
++++
+title = "Reportage über die Pille"
+date = "2024-06-11"
+draft = true
+pinned = false
+tags = ["pille", "verhütung", "reportage"]
+image = "pille_2_deko.webp"
+description = ""
++++
+# **Super-Duper-Pille oder Frauenkörpergift?** 
+
+**Die allbekannte Pille gibt es nun schon seit über 60 Jahren. In dieser Zeit hat sich kaum etwas verändert. Trotz der vielen Nebenwirkungen, die den meisten Frauen nicht einmal bewusst sind, ist es das beliebteste Verhütungsmittel und ein häufiges to-go Medikament für diverse gesundheitliche Anliegen von Frauen. Wir, zwei Jugendliche, wollen wissen, was sich hinter dieser unendlich langen Packungsbeilage der Anti-Baby-Pille verbirgt. Gemeinsam machen wir uns an die Recherche.**
+
+
+**Frauenmedizin**
+
+Wir starten unsere Forschungsreise mit dem medizinischen Fachwissen einer Frauenärztin. Dazu führen wir ein Interview mit Frau Dr. med. Anja Wüest. Sie ist Gynäkologin und leitet die Kinderwunschpraxis in Bern. Nebenbei ist sie als Oberärztin für Sprechstunden in der Kinder- und Jugendabteilung im Inselspital Bern angestellt. Frau Wüest hat einen sehr vollen Terminkalender. Dennoch nimmt sie sich die Zeit für einen Videoanruf mit uns. Während des Interviews herrscht eine lockere Atmosphäre. Frau Wüest wirkt sehr freundlich und aufmerksam. Mit einem Grinsen entschuldigt sie die Geräusche ihres Hundes im Hintergrund.
+
+Frau Wüest erzählt uns, dass die Pille keinen Schutz vor Geschlechtskrankheiten bietet. Viele Frauen nehmen diesen fehlenden Schutz nicht ernst genug. Dabei gehören Geschlechtskrankheiten zu den nicht heilbaren, ansteckenden Infektionen. Die Pille ist grundsätzlich ein sehr sicheres Verhütungsmittel. Der Pearl-Index, welcher aussagt wie sicher ein Verhütungsmittel ist, liegt bei 0.3 - 0.5. Das heisst 0.3 - 0.5 von 100 Frauen werden trotz Verhütung schwanger. Anwendungsfehler vergrössern das Risiko und stellen so einen weiteren Nachteil dar. Frau Wüest verschreibt die Pille sehr oft. Meist an junge Frauen. Ab 30 – 35 Jahren nimmt die Nachfrage ab, da die meisten zu diesem Zeitpunkt das Thema Kinderplanung abschliessen und somit auf langfristigere Verhütungsalternativen umsteigen. Die Pille hat verschiedene Zwecke. Neben der Verhütung verschreibt Frau Wüest die Pille beispielsweise gegen Endometriose, Eierstockzysten, Prämenstruelles Syndrom (PMS), extreme Stimmungsschwankungen, starke Akne oder ein Übermass an Körperhaaren aufgrund männlicher Hormone. Die Entscheidung, welche Pille sie verschreibt, bespricht sie gemeinsam mit den Patientinnen. Es gibt hunderte zur Auswahl. Sie berücksichtigt die Wünsche der Patientinnen und findet so individuell die passende Pille. Einige Pillen helfen zum Beispiel gegen unreine Haut und Menstruationsbeschwerden, während andere ein niedrigeres Risiko für Thrombose haben.
+
+Wichtig ist, richtig zu informieren, meint Frau Wüest mit ernster Miene. Sie zeichnet ihren Patientinnen jeweils auf, wie man die Pille einnimmt und was passiert, wenn man sie vergisst. Ausserdem erklärt sie was Thrombose, eine mögliche Nebenwirkung ist und wie sich diese anfühlt. Bei der Thrombose kommt es zu einem Blutgerinnsel, welches sogar tödlich sein kann. Zusätzlich gibt sie ihren Patientinnen ein Infoblatt der Schweizerischen Gesellschaft für Gynäkologie und Geburtshilfe mit. Am Ende vereinbart sie mit jeder Patientin ein Gespräch, um nach einer Weile zu schauen, wie diese die Pille vertragen. Zu den Nebenwirkungen der Pille meint Frau Wüest, dass diese meist nach Beginn der Einnahme in den ersten drei Monaten eintreten. In der Regel regulieren sich diese später. Sie unterscheiden sich bei den verschiedenen Pillen. Bei den Mini-Pillen sind es durchgehende Nebenwirkungen wie Zwischen- oder Schmierblutungen. Häufige Begleitsymptome der Kombi-Pillen sind Brustspannen oder Abnahme des Sexualtriebs.
+
+![](pille_1.jpg "Verschiedene Pillenprodukte ")
+
+ **Alternativen**
+
+Natürlich interessiert es uns auch, ob es Alternativen zur Pille gibt, die sich für manche sogar besser eignen könnten. Wir erkundigen uns darüber bei Frau Wüest. Fachkundig meint sie dazu, dass die Pille nicht ideal ist, wenn man sie ständig vergisst einzunehmen. Eine Alternative ist das Hormonpflaster, welches wöchentlich gewechselt wird und so einfacher in der Handhabung ist. Eine weitere Möglichkeit ist der Hormonring. Diesen führt man für 3 Wochen in die Vagina ein. Zur langfristigen Verhütung gibt es das Hormonstäbchen, das ist ein Kunststoff, den man für 3 Jahre unter die Haut im Oberarm pflanzt. Daneben gibt es noch die Hormonspirale, welche 5 - 6 Jahre in der Gebärmutterhöhle liegt. Sie ist ein sehr sicheres Verhütungsmittel, da man keine Anwendungsfehler machen kann. Möchte man hormonfrei verhüten, gibt es aktuell zwei Optionen. Zum einen die Kupferspirale, welche man einführt und für 5 - 10 Jahre lang behält. Bei dieser Methode klagen allerdings viele über starke Menstruationsbeschwerden. Zudem gibt es heutzutage viele Verhütungsapps, welche anhand der Körpertemperatur die Fruchtbarkeit der Frau bestimmen. Diese Methode ist nicht besonders sicher, da man ungenau handelt und dabei viele Fehler passieren können. Die Nutzung von Zyklusapps zur Verhütung rät Frau Wüest ab, da es keine guten Studien dazu gibt.
+
+*«Bei Zyklus-Apps muss man aufpassen»*
+
+Am Ende unseres Interviews wagen wir einen Blick in die Zukunft. Frau Wüest vermutet, dass die Pille weiterhin verwendet wird, dennoch eine starke Konkurrenz durch die Spirale bekommt. In den USA hat die Spirale die Pille schon als beliebtestes Verhütungsmittel abgelöst. Dennoch ist und bleibt die Pille die bestgeprüfte Verhütungsmethode. Sie ist sicher, preiswert und es wird sie noch lange geben. Mit Fortschritten in der Forschung könnten noch bessere Pillen entwickelt werden.
+
+**Pillenverkauf**
+
+Da die Pille so beliebt ist, wird sie sicherlich auch sehr oft gekauft. Deshalb wollen wir uns nun den Verkauf anschauen. Dazu besuchen wir die Coop Vitality Apotheke in Bern. Dort sind wir mit dem Apotheker Herr Philipp Zgraggen verabredet.
+
+Als wir ankommen, herrscht reger Betrieb. Die Apotheke erscheint hell und freundlich. Wir sehen geordnete Regale und einen Verkaufstresen in der Mitte des Geschäfts. Der typisch intensive Geruch von Desinfektionsmittel steigt uns in die Nase, während wir den Apotheker/innen lauschen. Einer von ihnen ist Herr Zgraggen. Nach wenigen Minuten kommt er auf uns zu und gemeinsam gehen wir in ein kleines Behandlungszimmer. Wir setzen uns an den Tisch und beginnen mit dem Interview. Herr Zgraggen erklärt uns den typischen Ablauf des Pillenverkaufs. Die Kundinnen kommen mit ihrem Rezept in die Apotheke, welches er auf die Gültigkeit kontrolliert. Dann holt er das entsprechende Produkt und erkundigt sich, ob alles gut läuft. Ist es der erste Kauf, vermittelt er die wichtigsten Informationen wie die richtige Einnahme, mögliche Nebenwirkungen und wann die Verhütung beeinträchtigt ist. Auf unsere Frage, wie oft die Pille verkauft wird, antwortet er nach kurzem Überlegen, es sei unterschiedlich. Er schätzt in der Vitality Apotheke seien es etwa 15-mal am Tag. Meistens werden die 3-6 Monatspackungen gekauft, da diese längerfristig günstiger sind. 
+
+**Erfahrungsbericht**
+
+Nun wissen wir vieles über die Perspektive der Fachkräfte. Natürlich wollen wir auch die Sicht einer jungen Frau, welche Erfahrungen mit der Pille hat, kennenlernen. Jemanden der bereit ist, sich zu dem Thema interviewen zu lassen, ist allerdings schwieriger zu finden als gedacht. Nach mehreren Anfragen bekamen wir endlich eine Zusage. Unsere Interviewpartnerin möchte allerdings anonym bleiben, weshalb wir sie Joy nennen. Mit der 19-jährigen Frau hatten wir ein interessantes Gespräch. Sie nahm die Pille ungefähr sechs Monate lang. Da sie vergass, eine neue Pillenpackung zu kaufen, recherchierte sie, was passiert, wenn man nach dem Absetzen der Pille, diese wiederbeginnt einzunehmen. Sie erfährt, dass die Gefahr für eine Thrombose zunimmt. Darauf entschied sie sich, die Pille nicht mehr zu nehmen. Wir erkundigen uns, für welche Zwecke Joy die Pille einnahm. Sie vertraut uns an, dass sie die Pille aufgrund ihrer starken Bauchschmerzen während der Menstruation, ihrer Hautunreinheiten und zur Verhütung nahm. Joy erwähnte die Pille während einer Kontrolle bei ihrer Frauenärztin und nachdem sie ausreichend informiert wurde, bekam sie die Pille verschrieben. Ihre Frauenärztin gab ihr Informationen über die Wirkung, die Einnahme und mögliche Nebenwirkungen. Sie legte Joy ans Herz, dass, falls Komplikationen auftreten oder wenn sie ein Unwohlsein bemerkt, sie sich jederzeit melden und ein Gespräch vereinbaren kann. 
+
+*«Ich vergass eine neue Pillenpackung zu kaufen, daraufhin habe ich neu recherchiert.»* 
+
+Wir fragen Joy, ob sie während der Pilleneinnahme irgendwelche Nebenwirkungen bemerkte. Sie erzählt uns, dass sie merkte, wie sich ihr Körper veränderte. Ihre Hüfte wurde breiter und sie hatte einige Stimmungsschwankungen. Negativ aufgefallen ist ihr neben den Nebenwirkungen der Preis für eine Monatspackung. Mit 30 Franken liegt dieser relativ hoch.
+
+Alles in allem war sie mit der Pille zufrieden. Sie half bei ihren Bauchschmerzen, ihrer unreinen Haut und verhütete sicher. Joy findet, wenn man gut aufgeklärt ist und die richtige Pille für einen findet, überwiegen die positiven Aspekte.
+
+*«Ich fühle mich genug aufgeklärt.»*
+
+**Mythen**
+
+So wie bei Joy überwiegen für viele Frauen die positiven Aspekte der Einnahme der Pille. Nehmen viele Frauen die Pille ein, hat dies natürlich auch eine Auswirkung auf die Gesellschaft. Die Pille führte in manchen Gebieten zur Unabhängigkeit der Frauen.
+
+Frauen können eine Schwangerschaft verhindern und haben so Kontrolle über ihr Leben. So konnten sie sich beispielsweise entscheiden zu studieren ohne Angst zu haben, das Studium aufgrund einer Schwangerschaft abbrechen zu müssen. Wie bedeutend das ist, sieht man an den Zahlen der 1960er Jahre. Die Zahl der Akademikerinnen stieg damals sprunghaft an. Beim Recherchieren und Lesen des Buchs «Wie uns die Pille verändert» von Sarah E. Hill, sind uns verschiedene Vermutungen auf negative Auswirkungen der Pille ins Auge gesprungen die uns sehr erstaunt haben. Aufgrund dieser, sank besonders in den letzten Jahren die Nachfrage der Pille. Doch sind diese Mythen wahr? Ehrlicherweise wissen wir es nicht. Unsere Recherchen dazu haben gezeigt, dass die Forschung dabei noch ziemlich in den Anfängen steckt und noch nichts bewiesen ist. Eine eventuell für die zukünftige Gesellschaft bedeutende Idee, ist die Entwicklung der Pille für den Mann. Man forscht an Methoden, um die Spermienproduktion einzustellen oder die Spermien so zu zerstören, damit sie keine Eizelle befruchten können. Dies versucht man in Form von Spritzen, Tabletten, Implantaten oder Gels. Doch auch dort gibt es noch keine guten Forschungsergebnisse.
+
+**Meinung gefällig?**
+
+Während des Schreiben unserer Reportage, haben wir viel über die Pille erfahren. Dabei haben wir ein Schlussfazit gefunden. Unserer Meinung nach soll jede Frau auf dieser Welt, selbst entscheiden, welche Verhütungsmethode für sie die Beste ist. Bevor man sich für die Pille entscheidet, empfehlen wir, genügend Informationen zu beschaffen und auf den Körper zu hören. Passt die Pille für einen, dann kann man sich auf eine sichere und gute Verhütung verlassen. Es ist allein unsere Entscheidung. Die Pille ist und bleibt ein Medikament, weshalb es wichtig ist, dies ärztlich abzuklären. Wir alle sind unterschiedlich und reagieren anders darauf. Man soll sich bei dieser wichtigen Entscheidung von niemand anderem beeinflussen lassen. Ganz nach dem Motto *your body, your choice – dein Körper, deine Entscheidung*.
